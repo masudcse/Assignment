@@ -1,0 +1,8 @@
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\obj\x86\Debug\_1stAssignment.Properties.Resources.resources
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\bin\Debug\1stAssignment.exe
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\bin\Debug\1stAssignment.pdb
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\obj\x86\Debug\1stAssignment.exe
+D:\Asp.net MVC\1st Assignment\1stAssignment\1stAssignment\obj\x86\Debug\1stAssignment.pdb
